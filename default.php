@@ -4,8 +4,6 @@
 	<head>
  		<!--<meta name="discription" content="Правдолюбивое сообщество">	-->
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  		<link href="http://palsanych.tk/PS5.ico" rel="icon" type="image/x-icon" />
-		<link href="http://palsanych.tk/PS5.ico" rel="shortcut icon" type="image/x-icon" />
   		<title>Песочница</title>
  	</head>
 
