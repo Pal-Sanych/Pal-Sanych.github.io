@@ -19,6 +19,13 @@
    	alert('Hello, World!');
    </script>
 
+	<div id="#conteiner"></div>
+
+	<script type="text/javascript">
+	$("documend").ready(function(){
+	   $("#container").load("http://mysite.ru/page2.html");
+	});
+	</script>
 	
 </body>
 </html>
