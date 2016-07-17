@@ -23,7 +23,7 @@
 
 	<script type="text/javascript">
 	$("documend").ready(function(){
-	   $("#container").load("http://mysite.ru/page2.html");
+	   $("#container").load("http://time100.ru/");
 	});
 	</script>
 	
