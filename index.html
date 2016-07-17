@@ -19,40 +19,6 @@
    	alert('Hello, World!');
    </script>
 
-	<form action="" method="post" onSubmit="return checkall()" name="commentform" id="commentform">
-		<label for="author">Имя * <span id="au"></span></label>
-		<input type="text" name="author" id="author" onBlur="validateName()" value="" />
-		<label for="email">E-mail * <span id="em"></span></label>
-		<input type="text" name="email" id="email" onBlur="validateEmail()" value="" />
-		<label for="comment">Комментарий:<span id="co"></span></label>
-		<textarea name="comment" id="comment" onBlur="функция-проверки-комментария()"></textarea>
-		<input name="submit" type="submit" id="submit" value="Отправить" />
-	</form>
-	function validateEmail(){
-		var x=document.forms["commentform"]["email"].value;
-		var atpos=x.indexOf("@");
-		var dotpos=x.lastIndexOf(".");
-		if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length){
-			document.getElementById('em').innerHTML = '(некорректный)';
-			return false;
-		} else {
-			document.getElementById('em').innerHTML = '';
-			return true;
-		}
-	}
-	function validateName(){
-		var x=document.forms["commentform"]["author"].value;
-		if (x.length < 3) {
-			document.getElementById('au').innerHTML = '(мин. 3 символа)';
-			return false;
-		} else {
-			document.getElementById('au').innerHTML = '';
-			return true;
-		}
-	}
-	function checkall(){
-		if(validateEmail() && validateName()) return true;
-		else return false;
-	}
+	
 </body>
 </html>
