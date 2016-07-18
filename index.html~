@@ -1,4 +1,4 @@
-<!DOCTYPE html >
+<!DOCTYPE html>
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  		<!--<meta name="discription" content="">	-->
@@ -8,8 +8,10 @@
   		<title>Pal-Sanych</title>
  </head>
 
- <body bgcolor="teal">
-	<iframe src="http://ecosociology.org/" scrolling="yes" width=100% height=100%> 
+ <body>
+ <!--bgcolor="teal"-->
+	<iframe src="http://ecosociology.org/" scrolling="yes" width=800px height=500px> 
+	firefuck
 	</iframe>	
 <!--	
 	<style type="text/css">
