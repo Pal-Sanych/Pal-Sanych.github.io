@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html >
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  		<!--<meta name="discription" content="">	-->
@@ -30,11 +30,11 @@
 	<p></p>
 	<p></p>
 	<img src="http://www.pngimg.com/upload/banana_PNG835.png" alt="banana">
-	
+<!--	
 	<script type="application/javascript">
    	alert('Hello, World!');
    </script>
-
+-->
 	
 	
 </body>
