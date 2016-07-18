@@ -9,6 +9,22 @@
  </head>
 
  <body bgcolor="teal">
+	<iframe src="http://ecosociology.org/" scrolling="yes" width=100% height=100%> 
+	</iframe>	
+<!--	
+	<style type="text/css">
+	iframe{
+		zoom: 0.15;
+		-moz-transform:scale(0.75);
+		-moz-transform-origin: 0 0;
+		-o-transform: scale(0.75);
+		-o-transform-origin: 0 0;
+		-webkit-transform: scale(0.75);
+		-webkit-transform-origin: 0 0;
+
+	}
+	</style>
+-->
 	<h1>banana</h1>
   	<!-- -->
 	<p></p>
@@ -19,22 +35,7 @@
    	alert('Hello, World!');
    </script>
 
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-
-<script type="text/javascript" src="c/jquery.xdomainajax.js"></script>
-
-<script type="text/javascript">
-
-$(document).ready(function() {
- $.get('http://www.fa13.com/champ.html?champ=Uk&a=r', function(res) {
-
-       var parse=$(res.responseText),       //Организуем для Jquery доступ к тексту с кодом страницы.
-            tab=parse.find(".mainBG");  //ищем информацию по классу  .mainBG
-       $("body").append(tab);          //добавляем к странице заранее вычлененный tab
-
- });
-});
-</script>
+	
 	
 </body>
 </html>
