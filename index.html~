@@ -3,16 +3,19 @@
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  		<!--<meta name="discription" content="">	-->
 		
-  		<link href="Pal-Sanych.github.io/PS5.ico" rel="icon" type="image/x-icon">
-		<link href="Pal-Sanych.github.io/PS5.ico" rel="shortcut icon" type="image/x-icon">
+  		<link href="PS5.ico" rel="icon" type="image/x-icon">
+		<link href="PS5.ico" rel="shortcut icon" type="image/x-icon">
   		<title>Pal-Sanych</title>
  </head>
 
  <body>
  <!--bgcolor="teal"-->
-	<iframe src="http://ecosociology.org/" scrolling="yes" width=800px height=500px> 
+	<iframe src="http://ecosociology.org/" scrolling="yes" width=800 height=500> 
 	firefuck
 	</iframe>	
+	<iframe title="Advert" src="https://ads.example.com/?customerid=923513721&amp;format=banner"
+        width="468" height="60"></iframe>
+
 <!--	
 	<style type="text/css">
 	iframe{
