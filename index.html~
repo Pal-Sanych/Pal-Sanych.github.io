@@ -9,10 +9,12 @@
  </head>
  <body>
  <!--bgcolor="teal"-->
-	<iframe src="http://www.youtube.com/embed/fHaAsFZL1nQ" width=800 height=500> 
+	<iframe src="http://www.youtube.com/embed/fHaAsFZL1nQ" width=150 height=100> 
 	firefuck
 	</iframe>	
-	
+	<iframe src="http://ecosociology.org/" width=150 height=100> 
+	firefuck
+	</iframe>	
 
 <!--	
 	<style type="text/css">
